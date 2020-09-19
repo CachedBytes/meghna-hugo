@@ -1,4 +1,4 @@
-baseURL = "https://cachedbytes.netlify.com"
+baseURL = "https://cachedbytes.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
